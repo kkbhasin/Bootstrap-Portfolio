@@ -150,6 +150,7 @@ h3 {
 .bottomRight {
     right: 336px;
     top: 120px;
+<<<<<<< HEAD
 }
 
 .port {
@@ -179,4 +180,6 @@ h3 {
     margin-right: 20px; 
     height: 160px; 
     width: 260px;
+=======
+>>>>>>> 63857c42d216c9a31b732a79852752985be6d443
 }
