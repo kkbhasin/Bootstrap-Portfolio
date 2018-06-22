@@ -45,17 +45,63 @@ N/A
 
 ## Versioning
 
+Commits on Jun 22, 2018
+
+    adding text to readme.txt
+    @kkbhasin
+    kkbhasin committed 44 minutes ago
+ 
 Commits on Jun 13, 2018
 
-    uploading main files
+    adding readme file
     @kkbhasin
-    kkbhasin committed 29 minutes ago
+    kkbhasin committed 9 days ago
+    
+    to remove bp2 files
+    @kkbhasin
+    kkbhasin committed 9 days ago
+    
+    adding hangman and crystal collector to portfolio page
+    @kkbhasin
+    kkbhasin committed 9 days ago
+ 
+Commits on May 31, 2018
 
-Commits on Jun 7, 2018
+    style.css update
+    @kkbhasin
+    kkbhasin committed 22 days ago
+    
+    to add responsiveness for all pages
+    @kkbhasin
+    kkbhasin committed 22 days ago
+    
+    to add responsiveness for all pages
+    @kkbhasin
+    kkbhasin committed 22 days ago
+ 
+Commits on May 27, 2018
+
+    to update final files
+    @kkbhasin
+    kkbhasin committed 27 days ago
+ 
+Commits on May 26, 2018
+
+    Updating contact and index.html, v.2 portfolio
+    @kkbhasin
+    kkbhasin committed 27 days ago
+ 
+Commits on May 24, 2018
+
+    to upload base files
+    @kkbhasin
+    kkbhasin committed 29 days ago
+ 
+Commits on May 20, 2018
 
     Initial commit
     @kkbhasin
-    kkbhasin committed 6 days ago
+    kkbhasin committed on May 20
 
 
 ## Authors
